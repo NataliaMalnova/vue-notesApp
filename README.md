@@ -1,7 +1,7 @@
 # Приложение заметки на Vue
 
 
-[Demo](http://natalia-malnova.ru/vue-notes/)
+[Demo](http://natalia-malnova.ru/work/vue-notes/)
 
 ## Технологии
 
